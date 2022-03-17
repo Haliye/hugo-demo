@@ -6,3 +6,7 @@ draft: false
 
 First ever fully costomizable and free site owned by Mohamedkafi.
 Alhamdullilah.
+
+WONDERFUL
+DEPLOYED THE SITE SUCCFULLY ON BOTH NETLIFY AND CLOUDFLARE PAGES.
+WHAT AN AMAZING DAY!!
